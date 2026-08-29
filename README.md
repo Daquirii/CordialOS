@@ -1,3 +1,5 @@
+<img src="CordialOS_Logo.svg" width="10%"/>
+
 # CordialOS
 An open source Unix-like kernel. Everything made from scratch.
 
