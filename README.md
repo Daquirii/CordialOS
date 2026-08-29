@@ -1,4 +1,4 @@
-<img src="text6.svg" width="10%"/>
+<img src="text6.svg"/>
 
 # CordialOS
 An open source Unix-like kernel. Everything made from scratch.
