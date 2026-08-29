@@ -1,2 +1,0 @@
-#NOTICES
-No current notices
