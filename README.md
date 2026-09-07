@@ -1,5 +1,7 @@
 <img src="text6r2.svg"/>
 
+![GitHub License](https://img.shields.io/github/license/Daquirii/CordialOS?style=flat&color=purple)
+
 #   
 An open source Unix-like kernel. Everything made from scratch.
 
